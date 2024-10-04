@@ -198,14 +198,13 @@ h2{
     .up{
         height: 15vh;
         background: transparent;
-        border: 1px solid red;
+        border: none;
         outline: none;
-        font-size: 14px;
+        font-size: 10px;
         font-family: Arial, Helvetica, sans-serif;
         color: grey;
         width: 85vw;
         overflow: hidden;
-        padding: 5px;
     }
     .reply{
         display: flex;
